@@ -27,6 +27,10 @@ namespace EmployeeServiceAPI
             );
 
 
+            //only give json format
+            config.Formatters.Remove(config.Formatters.XmlFormatter);
+
+
             ////indent
             //config.Formatters.JsonFormatter.SerializerSettings.Formatting = Newtonsoft.Json.Formatting.Indented;
             ////camelCase Formatter
