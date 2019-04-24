@@ -1,0 +1,12 @@
+G:\Web API(ASP.NET)\EmployeeServiceAPI\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+G:\Web API(ASP.NET)\EmployeeServiceAPI\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+G:\Web API(ASP.NET)\EmployeeServiceAPI\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+G:\Web API(ASP.NET)\EmployeeServiceAPI\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+G:\Web API(ASP.NET)\EmployeeServiceAPI\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+G:\Web API(ASP.NET)\EmployeeServiceAPI\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+G:\Web API(ASP.NET)\EmployeeServiceAPI\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+G:\Web API(ASP.NET)\EmployeeServiceAPI\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojAssemblyReference.cache
+G:\Web API(ASP.NET)\EmployeeServiceAPI\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CoreCompileInputs.cache
+G:\Web API(ASP.NET)\EmployeeServiceAPI\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CopyComplete
+G:\Web API(ASP.NET)\EmployeeServiceAPI\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+G:\Web API(ASP.NET)\EmployeeServiceAPI\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
